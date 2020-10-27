@@ -63,8 +63,8 @@ public:
 class Solution3 {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        // Store nums[i] as key and index as value in map
         unordered_map<int, int> map;
-        // Store numToFind as key and index of nums[i] (which created numToFind) as value in map
       
         for (int i = 0; i < nums.size(); i++) {
     	    int numToFind = target - nums[i];
