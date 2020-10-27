@@ -4,6 +4,7 @@ A collection of leetcode [problems](https://leetcode.com/problemset/all/) that i
 
 ## Array
 
-| #    | Title                                             | Solution                             | Difficulty |
-| ---- | ------------------------------------------------- | ------------------------------------ | ---------- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./solutions/Array/two-sum.cpp) | Easy       |
+| #    | Title                                                                                                     | Solution                                                         | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [C++](./solutions/Array/two-sum.cpp)                             | Easy       |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./solutions/Array/remove-duplicates-from-sorted-array.cpp) | Easy       |
