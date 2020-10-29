@@ -12,3 +12,4 @@ A collection of leetcode [problems](https://leetcode.com/problemset/all/) that i
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | [C++](./solutions/Array/search-insert-position.cpp)              | Easy       |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                       | [C++](./solutions/Array/maximum-subarray.cpp)                    | Easy       |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [C++](./solutions/Array/pascals-triangle.cpp)                    | Easy       |
+| 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                | [C++](./solutions/Array/pascals-triangle-2.cpp)                  | Easy       |
