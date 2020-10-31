@@ -13,5 +13,6 @@ A collection of leetcode [problems](https://leetcode.com/problemset/all/) that i
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                       | [C++](./solutions/Array/maximum-subarray.cpp)                    | Easy       |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [C++](./solutions/Array/pascals-triangle.cpp)                    | Easy       |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                | [C++](./solutions/Array/pascals-triangle-2.cpp)                  | Easy       |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | [C++](./solutions/Array/best-time-to-buy-and-sell-stock.cpp)     | Easy       |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | [C++](./solutions/Array/missing-number.cpp)                      | Easy       |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                         | [C++](./solutions/Array/running-sum-of-1d-array.cpp)             | Easy       |
